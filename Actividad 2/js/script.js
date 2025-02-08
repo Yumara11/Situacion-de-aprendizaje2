@@ -5,7 +5,6 @@ function Saludar() {
 
 function Emoji() {
     alert(";)");
-    Despedirse();
 }
 
 function Despedirse() {
