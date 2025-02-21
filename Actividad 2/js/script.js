@@ -3,10 +3,11 @@ function Saludar() {
     Emoji();
 }
 
-function Emoji() {
-    alert(";)");
+function Despedirse() {
+    alert("¡Adios¡")
+    Emoji();
 }
 
-function Despedirse() {
-    alert("Adios");
+function Emoji() {
+    alert(";)");
 }
