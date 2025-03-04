@@ -1,6 +1,6 @@
 function paquito() {
     let valorintroducido;
-    valorintroducido= document.getElementById("texto"). value;
+    parseInt.valorintroducido= document.getElementById("texto"). value;
     let resto;
 
     resto= valorintroducido % 2;
